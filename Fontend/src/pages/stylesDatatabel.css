@@ -1,0 +1,20 @@
+
+.rdt_TableHeadRow{
+ background-color: rgba(81, 32, 54, 0.733);
+  font-size: medium;
+  color: rgb(237, 230, 230);
+} 
+.rdt_TableCell{
+color: rgb(11, 5, 5);
+align-items: center;
+background-color: #f1e9ec;
+}
+.rdt_TableHead{
+  background-color: aqua;
+}
+.rdt_Table{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+
+

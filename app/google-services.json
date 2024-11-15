@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "635720656484",
+    "firebase_url": "https://hotel-5d504.firebaseio.com",
+    "project_id": "hotel-5d504",
+    "storage_bucket": "hotel-5d504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635720656484:android:4c56b25adbd37636466171",
+        "android_client_info": {
+          "package_name": "build.gradle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635720656484-r9id2e7602eop2qdbsa74f39l2s9hs6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_gfOkUtKnF870EVZil3f_9XsnvIZR-KI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635720656484-r9id2e7602eop2qdbsa74f39l2s9hs6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
